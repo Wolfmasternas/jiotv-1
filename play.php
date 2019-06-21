@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>play</title>
+<title>STREAMSAW LIVE STREAMING</title>
 <script type="text/javascript" src="https://ajax.cloudflare.com/cdn-cgi/scripts/b7ef205d/cloudflare-static/rocket.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script src="https://cdn.plyr.io/2.0.18/plyr.js"></script>
@@ -11,7 +11,7 @@
 <video id="video" style="width:100%;height:97%;object-fit: fill;"></video>
 </div>
 <script>
-var url="m3u8.php?c=<?php echo $_REQUEST["c"]; ?>&q=<?php echo $_REQUEST["q"]; ?>&e=.m3u8";
+var url="m3u8.php?c=<?php echo $_REQUEST["c"]; ?>&q=<?php echo $_REQUEST["q"]; ?>&e=junk.m3u8";
 
 plyr.setup(video);
 
