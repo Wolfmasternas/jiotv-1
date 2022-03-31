@@ -4,7 +4,7 @@ Use it only for personal use. Mail to the address below for support, if necessar
 Contributed by: allscripts@protonmail.com
 */
 $jctBase = "cutibeau2ic";
-$ssoToken = "AQIC5wM2LY4SfczEZE2fGevb0t17TAm-G9kAMvxhtxL4oGU.*AAJTSQACMDIAAlNLABQtMTkwNjA5MTA1OTI5NDc0NTI1MgACUzEAAjQ4*";
+$ssoToken = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWUiOiI2OWFmYjhkMS0wM2E2LTQxNDItYTRmYi01NjlmZjk3NjYzNTAiLCJ1c2VyVHlwZSI6IlJJTHBlcnNvbiIsImF1dGhMZXZlbCI6IjIwIiwiZGV2aWNlSWQiOiJhYmQ4ZTkzYWRiN2Y1ZDU2NjE1ZTA5YTViOTE4NTg4M2VjYzdmMTA0ZmMxNDg3ZGE4MmY2YzEyMzA1ZDY5YmI2Yjk3MjdlMmFlYjIyZmQ0MGNkMDc4ZThhMzUyNjIxYWY0NjJmMzk2MDI1MDUxZTEzZTBkMDE2MmIzZjRhZDU4MyIsImp0aSI6ImE4MjY2MzU3LTA3ZDUtNGM4Ny05MTdkLWJhYzY2ODk3YTFkMCIsImlhdCI6MTY0NzI2NTkyMn0.M3kNL6UvodWkSGyvKCFRgaTWR5CfxpO-RTo2t-TsA0Y";
 function tokformat($str)
 {
 $str= base64_encode(md5($str,true));
