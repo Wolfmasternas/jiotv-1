@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>STREAMSAW LIVE STREAMING</title>
+<title>WOLF LIVE STREAMING</title>
 <script type="text/javascript" src="https://ajax.cloudflare.com/cdn-cgi/scripts/b7ef205d/cloudflare-static/rocket.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script src="https://cdn.plyr.io/2.0.18/plyr.js"></script>
